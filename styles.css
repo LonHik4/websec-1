@@ -1,0 +1,45 @@
+.valueInput{
+    margin: 10px 10px 0px 10px;
+    border-style: dotted;
+    background-color: greenyellow;
+    color: red;
+    border-color: red; 
+    border-radius: 5px;
+}
+
+.select1{
+    border-style: dotted;
+    background-color: greenyellow;
+    color: red;
+    border-color: red; 
+    border-radius: 5px;
+}
+.button1{
+    margin:  20px auto 20px auto;
+    background-color: greenyellow;
+    border-style: dotted;
+    color: red;
+    border-color: red; 
+    border-radius: 5px;
+}
+.textarea1{
+    margin: 20px auto 20px auto;
+    background-color: greenyellow;
+    border-style: dotted;
+    color: red;
+    border-color: red; 
+    border-radius: 5px;
+    width: 100%;
+    box-sizing: border-box;
+}
+.back {
+    margin: 30px 30px 30px 30px;
+    border-style: dotted;
+    border-width: 2px 2px 2px 2px;
+    border-color: red;
+    background-color: greenyellow;
+    border-radius: 15px;
+}
+.row {
+    display: block;
+}
